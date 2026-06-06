@@ -10,7 +10,7 @@ providers:
     api_key: ""   # 如果用 Claude 模型填这里 (sk-ant-xxx)
     base_url: ""
   openai_compat:
-    api_key: "sk-2dffc60c896c4da5927d6f10248b9eac"
+    api_key: ""
     base_url: "https://api.deepseek.com/v1"
 
 # --- 可选 ---
@@ -29,8 +29,8 @@ providers:
 # /remote status 查看连接状态
 remote:
   feishu:
-    app_id: "cli_aa980bdb87a11cda"
-    app_secret: "lWT7ETEhbjGMTB6u8DAwMXgOItLVYdNf"
+    app_id: ""
+    app_secret: ""
     base_url: "https://open.feishu.cn/open-apis"
 
 # --- MCP (Model Context Protocol) ---
